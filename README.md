@@ -8,3 +8,5 @@
 
 [Testing in-app purchases](https://developer.apple.com/documentation/storekit/in-app_purchase/testing_in-app_purchases_with_sandbox)  <br><br>
 
+[Restoring in-app purchases](https://developer.apple.com/documentation/storekit/in-app_purchase/original_api_for_in-app_purchase/restoring_purchased_products)  <br><br>
+
